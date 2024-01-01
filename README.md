@@ -1,28 +1,51 @@
 # Hello I'm Ethan and welcome to my Github.
 
-![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=javascript&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/TypeScript-TypeScript?style=flat&logo=typescript&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Python-Python?style=flat&logo=python&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Rust-Rust?style=flat&logo=rust&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/React-React?style=flat&logo=react&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/C++-C++?style=flat&logo=cplusplus&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat&logo=postgresql&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Debian-Debian?style=flat&logo=debian&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Docker-Docker?style=flat&logo=docker&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Github-Github?style=flat&logo=github&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/CSS-CSS?style=flat&logo=css3&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-Tailwind%20CSS?style=flat&logo=tailwindcss&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/NextJS-NextJS?style=flat&logo=nextdotjs&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Markdown-Markdown?style=flat&logo=markdown&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Obsidian-Obsidian?style=flat&logo=obsidian&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Windows-Windows?style=flat&logo=windows&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Bash-Bash?style=flat&logo=gnubash&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat&logo=ubuntu&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Neovim-Neovim?style=flat&logo=neovim&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat&logo=visualstudiocode&color=%2344395e)
-![Static Badge](https://img.shields.io/badge/Intellij%20Idea-Intellij%20Idea?style=flat&logo=intellijidea&color=%2344395e)
+# Languages
+
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=rust&logoColor=%23FFFFFF&label=Rust&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=cplusplus&label=C%2B%2B&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=css3&label=CSS&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=gnubash&label=Bash&logoColor=%23FFFFFF&color=%23B9FE6F)
+
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=python&label=Python&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=typescript&label=TypeScript&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=javascript&label=JavaScript&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=html5&label=HTML&logoColor=%23FFFFFF&color=%233EF1BE)
+
+![Static Badge](https://img.shields.io/badge/Advanced-Tool?logo=markdown&label=Markdown&logoColor=%23FFFFFF&color=%23D44D4D)
 
 ---
 
+# Tools
+
+![Static Badge](https://img.shields.io/badge/Beginner-Tool?logo=postgresql&label=PostgreSQL&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Tool?logo=neovim&label=Neovim&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Tool?logo=github&label=Github&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=intellijidea&logoColor=%23FFFFFF&label=Intellij%20Idea&color=%23B9FE6F)
+
+![Static Badge](https://img.shields.io/badge/Intermediate-Tool?logo=docker&label=Docker&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Tool?logo=git&label=Git&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Tool?logo=obsidian&label=Obsidian&logoColor=%23FFFFFF&color=%233EF1BE)
+
+![Static Badge](https://img.shields.io/badge/Advanced-Tool?logo=visualstudiocode&label=VS%20Code&logoColor=%23FFFFFF&color=%23D44D4D)
+
+---
+
+# Libraies
+
+![Static Badge](https://img.shields.io/badge/Beginner-Language?logo=nextdotjs&label=NextJS&logoColor=%23FFFFFF&color=%23B9FE6F)
+
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=tailwindcss&label=Tailwind%20CSS&logoColor=%23FFFFFF&color=%233EF1BE)
+![Static Badge](https://img.shields.io/badge/Intermediate-Language?logo=react&label=React&logoColor=%23FFFFFF&color=%233EF1BE)
+
+---
+
+# Operating Systems
+
+![Static Badge](https://img.shields.io/badge/Beginner-OS?logo=linux&label=Linux&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-OS?logo=debian&label=Debian&logoColor=%23FFFFFF&color=%23B9FE6F)
+![Static Badge](https://img.shields.io/badge/Beginner-OS?logo=ubuntu&label=Ubuntu&logoColor=%23FFFFFF&color=%23B9FE6F)
+
+![Static Badge](https://img.shields.io/badge/Intermediate-OS?logo=windows&label=Windows&logoColor=%23FFFFFF&color=%233EF1BE)
+
+---
